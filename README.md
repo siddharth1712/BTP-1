@@ -26,3 +26,9 @@ Refer COOP.md in ./CoOp directory
 Refer COCOOP.md in ./CoOp directory
 
 
+#### References
+1. Zhou, K., Yang, J., Loy, C., & Liu, Z. (2022). Conditional Prompt Learning for Vision-Language Models. In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+2. Zhou, K., Yang, J., Loy, C., & Liu, Z. (2022). Learning to Prompt for Vision-Language Models. International Journal of Computer Vision (ĲCV).
+
+
